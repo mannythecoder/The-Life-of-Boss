@@ -1,0 +1,106 @@
+     body {
+         margin: -35px;
+         padding: 0px 0px 0px 35px;
+         background-color: rgb(194, 228, 228);
+     }
+    
+    h1  {
+        font-size: 50px;
+        font-family: sans-serif;
+        width: 100%;
+        background-color: skyblue;
+        color: ghostwhite;
+        text-align: center;
+        padding: 10px 15px;
+        border: 12px solid orange;
+        box-sizing: border-box;
+        
+    }
+    
+    img {
+       opacity: .9;
+       background-repeat: no-repeat;
+       background-position: right bottom;
+       width: 25%;
+       height: 30%;
+       border-radius: 50px;
+       padding: 10px 10px;
+       margin: 25px auto;
+       display: block;
+    } 
+   
+    h3 {
+     font-size: 35px;
+     font-family: sans-serif;
+     margin: 35px auto;
+     padding: 10px 15px;
+     color: black;
+     height: 1%;
+     width: 25%;
+     
+    }
+    
+    h2 {
+    font-size: 35px;
+    font-family: sans-serif;
+    margin: 35px;
+    padding: 10px 
+    color: black;
+    height: 1%;
+    width: 30%;
+    }
+
+    p {
+     font-size: 25px;
+     font-family: sans-serif;
+     margin: 100px 40px;
+     padding: 1px;
+     color: coral;
+     text-align: left;
+     line-height: 1.5em;
+     height: 1vh;
+     
+    }
+
+    footer{
+        width: 250px;
+        font-size: 14px;
+        padding: 5px;
+        border: 5px solid orange;
+        margin: 30px auto 10px;
+        color: black;
+        text-align: center;
+        box-sizing: border-box;
+        
+    }
+    .living {
+     font-size: 25px;
+     font-family: sans-serif;
+     margin: 10px 40px 100px;
+     padding: 1px;
+     color: coral;
+     text-align: left;
+     line-height: 1.5em;
+     height: 1vh;
+    }
+ 
+
+
+
+
+
+
+
+
+ 
+    
+      
+        
+        
+        
+        
+        
+        
+        
+        
+     
